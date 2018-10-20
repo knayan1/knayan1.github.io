@@ -12,12 +12,12 @@ Passionate about developing community, evangelizing technology and, giving enthu
 -   2yr academic experience in web development, working on **IBM The Great Mind Challenge (TGMC)** projects 
 -   Exposure to NLP, DevOps and recommendation engine  
 -   Always eager to learn, and passionate to share that learnt knowledge with peers
--   Certified in various IBM technologies, and an IBM Blue Scholar
+-   Certified in various IBM technologies, and an IBM Blue Scholar  
 ---
 ## Tech Stack
 **Expertise**: _**perl**_ scripting, perl CGI, Template toolkit, Embperl, _**python**_, core java, _**Solr**_, regex, MySQL, HTML/CSS, OOJS, jQuery, git  
-**Intermediate**: django, perforce, svn, GCP, AWS, apache, nginx, spjinx
-**Exposed to**: Catalyst, NLTK, JAPE grammars (NLP), PredictionIO (Recommendation Engine), Jenkins
+**Intermediate**: django, perforce, svn, GCP, AWS, apache, nginx, spjinx  
+**Exposed to**: Catalyst, NLTK, JAPE grammars (NLP), PredictionIO (Recommendation Engine), Jenkins  
 **Tools**: Eclipse, IBM Rational Rose, Firebug, jira, splunk  
 
 ---
@@ -25,7 +25,7 @@ Passionate about developing community, evangelizing technology and, giving enthu
 ### [SAP](https://www.sap.com/), Senior Software Engineer, Aug-2018 to present
 - Working for DevOps team of SAP ([Ariba](https://www.ariba.com/) team), on 3rd party payroll (MobileProgramming LLC)
 - Developing perl scripts to monitor servers
-- Movement of Ariba to SAP Hana from Oracle
+- Movement of Ariba to SAP Hana from Oracle  
 ---
 ### [GlobalLogic](https://www.globallogic.com/), Senior Software Engineer, Mar-2016 to Aug-2018
 - Client: **[zappos.com](https://zappos.com)**, an **[Amazon](https://amazon.com)** subsidiary, and one of the leading eCommerce in Nevada, US
@@ -40,7 +40,7 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - Taken multiple Security Testing seminars to create awareness for cybersecurity, and means to protect our web pages (and ourselves) from those attacks
 - Taken 100+ cross domain interview in a year
 - Beaten the security professional guys in security testing challenge
-- Received bronze award for my *Cyber security awareness* whitepaper 
+- Received bronze award for my *Cyber security awareness* whitepaper  
 ---
 ### [Monster](https://monsterindia.com), Associate Software Engineer, Dec-2014 to Mar-2016
 - Maintenance (bug fixes and enhancement) of the legacy project *Resume Search*
@@ -54,7 +54,7 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - Automated scripts for posting data to Solr servers
 - Implemented *Skillsmart/NSDC search*, similar to Folder search, but this being for NSDC & skillsmart candidates (100k users)
 - Mentored other geeks to perform better in less time
-- Taken tech interviews for hiring top talent
+- Taken tech interviews for hiring top talent  
 ---
 ### [IndiaMART InterMESH Ltd](https://indiamart.com), Associate Software Engineer, Nov-2013 to Dec-2014
 - Complete Ownership of product *Login IM*
@@ -69,7 +69,7 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - Maintenance of product *login IM*
 - New Development / Bug Fixes / Maintenance in *MY IM*
 - Used **Amazon S3** for storing images and displayed at runtime
-- Created various POCs, as part of R&D
+- Created various POCs, as part of R&D  
 
 #### Apart from KRA
 
@@ -79,7 +79,7 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - Reported bugs on not only my product but on others too
 - Reported various security issues (XSS) on multiple products
 - Mentored other geeks to perform better in less time
-- Taken interview to hire top talents
+- Taken interview to hire top talents  
 ---
 ## Honors & Awards
 - Bronze Award in Hacking whitepaper, by Globallogic
@@ -88,7 +88,7 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - Best performer of the Month Jun-14, IndiaMART
 - Student of the year, 2012, by ISTE
 - IBM Blue Scholar
-- IBM Student Ambassador
+- IBM Student Ambassador  
 ---
 ## Education
 ### B. Tech, Computer Science & Engineering, PTU, 84.4%
@@ -102,22 +102,22 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - Participated in **IBM TGMC 2011** (The Great Mind Challenge)  
 - Participated in **IBM TGMC 2012** (The Great Mind Challenge)  
 - Mentored and encouraged other students to take part in IBM TGMC , submit POCs, and take certification exams  
-- Given trainings to students and teachers for preparation of IBM certification exams
+- Given trainings to students and teachers for preparation of IBM certification exams  
 ---
 ### Senior Secondary School, 10th+2, DAV, CBSE, 89.4%
 - Maths/Computers as major subject
 - Physics, Chemistry, Maths (PCM) score being 92%
-- Participated in MHRAT (Mahatma Hans Raj Aryan Tournament) conduced by all DAVs
+- Participated in MHRAT (Mahatma Hans Raj Aryan Tournament) conduced by all DAVs  
 ---
 ### High School, 10th, DAV, CBSE, 81.6%
 - Winner of Science olympiad
 - Participated in MHRAT (Mahatma Hans Raj Aryan Tournament) conduced by all DAVs
-- Various district level recognition in field of study and sports
+- Various district level recognition in field of study and sports  
 ---
 ## Publications
 - [Basics of Ethical Hacking](https://bcognizance.iiita.ac.in/archive/aug-nov14/?p=866), Nov-2014, IIIT Allahabad, 
 - [Deeper dive to Methods of Hacking](https://bcognizance.iiita.ac.in/archive/apr-oct15/?p=88), Apr-2015, IIIT Allahabad
-- [Cross Site Scripting (XSS)](https://bcognizance.iiita.ac.in/archive/nov-15/?p=136), Nov-2015, IIIT Allahabad
+- [Cross Site Scripting (XSS)](https://bcognizance.iiita.ac.in/archive/nov-15/?p=136), Nov-2015, IIIT Allahabad  
 ---
 ## Other Hobbies
 - *Travelling*: What about Solo Backpacking?
@@ -127,5 +127,5 @@ Passionate about developing community, evangelizing technology and, giving enthu
 - *Pen testing*: Privacy is fundamental right
 - *Educational Seminars*: Love to teach children, what I wish, someone could have taught us
 - *Motivational Lectures*: Yeah, but small audience at the moment, those including office-mates, and friends
-- Enlarging the connection (outside the online life)
+- Enlarging the connection (outside the online life)  
 ---
